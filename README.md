@@ -1,4 +1,4 @@
-# CheckUser
+# CheckUserJS
 
 You can check your profile in Github
 
